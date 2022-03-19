@@ -1,0 +1,2 @@
+# FuzzyLogic
+Penerapan Fuzzy Logic
